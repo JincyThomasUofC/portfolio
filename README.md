@@ -38,25 +38,27 @@ _Mahatma Gandhi University, India_
 
 ## 💼 Projects
 
-**🔍 Alberta - Workforce and Economy** _(SQL, Python)_  
-Feb 2025 – Mar 2025  
-- Queried labor/economic datasets to analyze employment and industry shifts  
-- Built Python visualizations to support workforce planning and economic policies
+**🔍 Alberta - Workforce and Economy** _(SQL and Python)_  
+📅 Feb 2025 – Mar 2025  
+- Queried labor and economic datasets using SQL and engineered Python visualizations to reveal employment trends and industry shifts in Alberta.  
+- Identified sector-specific growth and decline patterns, supporting policy discussions and workforce planning.  
+- Delivered actionable insights to inform economic resilience strategies.
 
-**📍 Calgary 311 Service Request Analysis** _(Python)_  
-Jan 2025 – Feb 2025  
-- Visualized request data to identify public service needs by neighborhood  
-- Enabled data-driven resource allocation using Python trends analysis
+**📍 Analysis of 311 Service Requests – Calgary** _(Python)_  
+📅 Jan 2025 – Feb 2025  
+- Processed and visualized 311 request data to identify key issues across neighborhoods.  
+- Extracted trends using Python libraries to support data-driven decision making.  
+- Visualized temporal and geographic trends, enabling data-driven resource allocation and enhanced public service response.
 
-**✈️ Aircraft Price Prediction** _(R, Python)_  
-Feb 2025 – Mar 2025  
-- Built a multiple linear regression model for aircraft price prediction  
-- Evaluated and refined model using diagnostics and assumption checks
+**✈️ Aircraft Price Prediction** _(R and Python)_  
+📅 Feb 2025 – Mar 2025  
+- Built and evaluated a multiple linear regression model to predict aircraft prices.  
+- Checked model assumptions and achieved strong performance through iterative refinement and analysis.
 
-**⚰️ Leading Causes of Death in Canada** _(Tableau)_  
-May 2025  
-- Explored 24 years of mortality data with interactive Tableau dashboards  
-- Provided public health insights across age and gender demographics
+**⚰️ Leading Causes of Death in Canada – An Exploratory Analysis** _(Tableau)_  
+📅 May 2025  
+- Performed exploratory data analysis and created interactive Tableau dashboards to visualize trends in the leading causes of death in Canada over a 24-year period.  
+- Analyzed mortality data across different age groups and sexes to uncover key public health insights and long-term patterns.
 
 ---
 
